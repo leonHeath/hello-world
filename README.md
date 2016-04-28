@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hello world,
+About time for a cup of tea
